@@ -28,7 +28,7 @@ The Power of Burp Suite
 Burp Suite Compendium
 Cyber Kill Chain
 Social Engineering Attacks
-Best of Ethical Hacking Tools in Practice
+**Best of Ethical Hacking Tools in Practice**
 ----------------------------------
 
 Magazines which are not uploaded here
