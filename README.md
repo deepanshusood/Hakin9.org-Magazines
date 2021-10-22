@@ -2,6 +2,7 @@
 
 This is the list of the magazines which are published by Hakin9.org on their website, which you can download from here too. Below is the index of magazines that are published here. There are 8 magazines which couldn't be get uploaded due to file size upload policy, but no worries those can be easily downloadable from the website.
 
+
 IoT and Raspberry Pi Hacker's Toolkit
 Hacking Career Jumpstart
 Android Applications and Security
@@ -28,7 +29,9 @@ The Power of Burp Suite
 Burp Suite Compendium
 Cyber Kill Chain
 Social Engineering Attacks
-**Best of Ethical Hacking Tools in Practice**
+Best of Ethical Hacking Tools in Practice
+
+
 ----------------------------------
 
 Magazines which are not uploaded here
